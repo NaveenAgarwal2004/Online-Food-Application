@@ -1,6 +1,6 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
-import Pizza from '../../Food_Assets/assets/hero/pizza.jpg';
+import Pizza from '../../Food_Assets/assets/hero/Pizza.jpg';
 import { Link } from 'react-router-dom';
 
 const Section1 = () => {

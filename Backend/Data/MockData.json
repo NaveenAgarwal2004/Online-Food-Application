@@ -1,0 +1,17 @@
+[
+    {
+      "image": "/assets/about/pizza.png",
+      "title": "Wood-Fired Perfection",
+      "paragraph": "Our pizzas are crafted with love, using hand-stretched artisanal dough and premium ingredients, slow-roasted in a wood-fired oven for that perfect smoky crust and melty goodness. Every slice is a masterpiece of flavor and tradition."
+    },
+    {
+      "image": "/assets/about/healthy.png",
+      "title": "Premium Ingredients",
+      "paragraph": "We source only the finest toppings and freshest produce to elevate every bite. From rich cheeses to vibrant herbs, our commitment to quality shines through in every pizza we create, delivering unforgettable taste."
+    },
+    {
+      "image": "/assets/about/pizza-deliver.png",
+      "title": "Swift & Sizzling Delivery",
+      "paragraph": "Enjoy piping-hot pizza straight from our oven to your door. Our lightning-fast delivery ensures your meal arrives fresh and ready to savor, bringing the pizzeria experience right to you, anytime."
+    }
+  ]

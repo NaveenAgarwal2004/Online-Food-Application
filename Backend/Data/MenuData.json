@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "category": "Signature Pizzas",
+      "name": "Blazing Margherita",
+      "description": "A fiery twist on a classic! Hand-stretched dough meets zesty tomato sauce, creamy mozzarella, and fresh basil, kissed by our wood-fired oven’s smoky embrace.",
+      "price": "$13.99",
+      "image": "/assets/menu/BlazingMargherita.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "category": "Signature Pizzas",
+      "name": "Spicy Inferno Pepperoni",
+      "description": "Ignite your taste buds with spicy pepperoni, gooey mozzarella, and a hint of chili oil, all baked to a crispy perfection in our roaring oven.",
+      "price": "$15.99",
+      "image": "/assets/menu/Pepperoni.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "category": "Gourmet Creations",
+      "name": "Truffle Ecstasy",
+      "description": "Indulge in luxury with truffle oil, earthy wild mushrooms, peppery arugula, and shaved parmesan, slow-roasted for a flavor explosion.",
+      "price": "$19.99",
+      "image": "/assets/menu/TrufflePizza.jpg",
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "category": "Gourmet Creations",
+      "name": "Garden Blaze Veggie",
+      "description": "A vibrant medley of roasted bell peppers, black olives, caramelized onions, and spinach, bursting with fresh-from-the-garden goodness.",
+      "price": "$16.99",
+      "image": "/assets/menu/VeggiePizza.jpg",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "category": "Sides & Starters",
+      "name": "Garlic Fire Sticks",
+      "description": "Crispy breadsticks drenched in garlic butter and herbs, served with a smoky marinara dip—perfect for sharing or devouring solo!",
+      "price": "$6.49",
+      "image": "/assets/menu/GarlicBread.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 6,
+      "category": "Beverages",
+      "name": "Zesty Mint Splash",
+      "description": "A refreshing blast of hand-squeezed lemonade with a cool mint twist, crafted to complement your pizza adventure.",
+      "price": "$3.99",
+      "image": "/assets/menu/Lemonade.jpg",
+      "rating": 4.3
+    },
+    {
+      "id": 7,
+      "category": "Desserts",
+      "name": "Chocolate Lava Delight",
+      "description": "A molten chocolate lava cake with a gooey center, served warm with a scoop of vanilla gelato—pure indulgence after your pizza feast!",
+      "price": "$7.99",
+      "image": "/assets/menu/ChocoLavaCake.jpg",
+      "rating": 4.9
+    },
+    {
+      "id": 8,
+      "category": "Beverages",
+      "name": "Spiced Iced Chai",
+      "description": "A bold blend of spiced chai with a hint of cinnamon, served over ice to cool down after the heat of our wood-fired pizzas.",
+      "price": "$4.49",
+      "image": "/assets/menu/IceTea.jpg",
+      "rating": 4.4
+    }
+  ]
